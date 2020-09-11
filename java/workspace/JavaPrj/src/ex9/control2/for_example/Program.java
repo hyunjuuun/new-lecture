@@ -14,7 +14,6 @@ public class Program {
 //		n*(a+l)/2
 		total = 5*(3+7)/2;
 		
-
 		System.out.printf("total is %d\n", total);
 
 	}
