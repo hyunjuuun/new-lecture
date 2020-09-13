@@ -14,7 +14,6 @@ public class Program5 {
 			lotto[i] = rand.nextInt(45)+1;
 			System.out.printf("%d ",lotto[i]);
 		}
-		
 
 	}
 }
